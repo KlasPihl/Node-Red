@@ -8,3 +8,7 @@ Test of Node-Red functionallity
 2. Read modbus
 3. Use MQTT
 4. P1/HAN bus
+
+
+## Blinky
+![Blinky flow](blinky_flow.png)
